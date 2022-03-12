@@ -1,0 +1,13 @@
+E:\study\Microsoft Visual Studio\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\study\Microsoft Visual Studio\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\study\Microsoft Visual Studio\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\study\Microsoft Visual Studio\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+E:\study\Microsoft Visual Studio\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\study\Microsoft Visual Studio\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\study\Microsoft Visual Studio\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\study\Microsoft Visual Studio\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\study\Microsoft Visual Studio\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\study\Microsoft Visual Studio\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\study\Microsoft Visual Studio\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+E:\study\Microsoft Visual Studio\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+E:\study\Microsoft Visual Studio\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources

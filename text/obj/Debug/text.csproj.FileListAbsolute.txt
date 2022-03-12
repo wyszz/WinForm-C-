@@ -1,0 +1,7 @@
+E:\study\Microsoft Visual Studio\source\repos\text\bin\Debug\text.exe.config
+E:\study\Microsoft Visual Studio\source\repos\text\bin\Debug\text.exe
+E:\study\Microsoft Visual Studio\source\repos\text\bin\Debug\text.pdb
+E:\study\Microsoft Visual Studio\source\repos\text\obj\Debug\text.csproj.AssemblyReference.cache
+E:\study\Microsoft Visual Studio\source\repos\text\obj\Debug\text.csproj.CoreCompileInputs.cache
+E:\study\Microsoft Visual Studio\source\repos\text\obj\Debug\text.exe
+E:\study\Microsoft Visual Studio\source\repos\text\obj\Debug\text.pdb

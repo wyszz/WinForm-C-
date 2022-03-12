@@ -1,0 +1,11 @@
+E:\study\Microsoft Visual Studio\source\repos\Review\bin\Debug\Review.exe.config
+E:\study\Microsoft Visual Studio\source\repos\Review\bin\Debug\Review.exe
+E:\study\Microsoft Visual Studio\source\repos\Review\bin\Debug\Review.pdb
+E:\study\Microsoft Visual Studio\source\repos\Review\obj\Debug\Review.csproj.AssemblyReference.cache
+E:\study\Microsoft Visual Studio\source\repos\Review\obj\Debug\Review.Form1.resources
+E:\study\Microsoft Visual Studio\source\repos\Review\obj\Debug\Review.Properties.Resources.resources
+E:\study\Microsoft Visual Studio\source\repos\Review\obj\Debug\Review.csproj.GenerateResource.cache
+E:\study\Microsoft Visual Studio\source\repos\Review\obj\Debug\Review.csproj.CoreCompileInputs.cache
+E:\study\Microsoft Visual Studio\source\repos\Review\obj\Debug\Review.exe
+E:\study\Microsoft Visual Studio\source\repos\Review\obj\Debug\Review.pdb
+E:\study\Microsoft Visual Studio\source\repos\Review\obj\Debug\Review.StudentUpdate.resources

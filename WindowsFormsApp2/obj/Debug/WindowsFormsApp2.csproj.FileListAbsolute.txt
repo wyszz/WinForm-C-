@@ -1,0 +1,12 @@
+E:\study\Microsoft Visual Studio\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\study\Microsoft Visual Studio\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\study\Microsoft Visual Studio\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\study\Microsoft Visual Studio\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+E:\study\Microsoft Visual Studio\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\study\Microsoft Visual Studio\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\study\Microsoft Visual Studio\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\study\Microsoft Visual Studio\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\study\Microsoft Visual Studio\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\study\Microsoft Visual Studio\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\study\Microsoft Visual Studio\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\study\Microsoft Visual Studio\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
